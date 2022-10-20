@@ -9,3 +9,4 @@ Requires:
 - M3 Heatset Inserts
 - M3 T-nut
 
+![Monitor_Arm_2020_Bracket v3](https://user-images.githubusercontent.com/11861478/196963826-d8f5cb01-25bc-4131-a1af-7b61b310f6bd.png)
